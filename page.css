@@ -1,0 +1,94 @@
+body {
+    background-image: url("Carina_Dwarf_Galaxy.jpg")
+}
+
+a {
+    text-decoration: none;
+    color: #2A217E;
+    font-weight: bold;
+}
+
+h1 {
+    color: #44114E;
+    font-size: 65px;
+    font-weight: bold;
+    font-family: Josefin Slab;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Courier;
+}
+
+ul {
+    padding: 0;
+}
+
+p {
+    color: #121272;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+#container {
+    background-color: #E5E5F7;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 100px 100px 400px 400px;
+    text-align: center;
+    border: 10px solid;
+}
+
+#Main {
+    font-family: Josefin Slab;
+    font-size: 20px;
+}
+
+#header {
+    text-align: center;
+    padding: 30px;
+}
+
+#img {
+    background-color: #C192E7;
+    width: 610px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 30px;
+    border-color: black;
+    border: 0.1px solid;
+    max-width: 100%;
+    height: auto;
+}
+
+#img3 {
+    text-align: center;
+    border: 10px;
+    border-radius: 30px;
+    border: 2px solid;
+    border-color: #8686FF
+}
+
+#fig {
+    background-color: #FDFCFA;
+}
+
+#footer {
+    background-color: #0A0A42;
+    padding: 10px;
+    color: white;
+    text-align: right;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1100px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    border: 10px solid;
+    border-color: #8686FF
+}
+
+p {
+    font-family: oblique;
+}
